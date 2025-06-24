@@ -4,12 +4,21 @@
 
 ## Education
 - M.SC, Data Sciece with Computational Intelligence | Coventry University (_May 2025_)								       		
-- B.Tech , Computer Science and engineering	| Malla Reddy Engineering college ( 2017_)	 			        		
+- B.Tech , Computer Science and engineering	| Malla Reddy Engineering college ( June 2017 )	 			        		
 
 ## Work Experience
-**Product Quality Ops (SEPO) @Amazon**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Product Quality Operations – Product Authentication Team
+Amazon | Oct 2020 – Jun 2023**
+-Conducted data-driven investigations to restrict unauthorized sellers, contributing to the removal of 500+ counterfeit listings per quarter and protecting brand integrity.
+-Verified inventory authenticity through 100+ supplier communications (calls/emails) weekly, ensuring compliance with Amazon’s brand protection policies.
+-Analyzed seller profiles and transaction patterns, identifying 20+ high-risk seller networks involved in counterfeit activities across multiple marketplaces.
+-Leveraged SQL and Excel (macros, lookups, pivot tables) to process and analyze datasets with 50K+ records/month, supporting fraud detection and decision-making.
+-Monitored seller activities using Kibana, reviewing real-time data from 10+ operational dashboards to detect fraudulent behaviors and anomalies.
+-Partnered with 5+ cross-functional teams including Business Analysts and ML Engineers to supply clean datasets and improve fraud detection algorithms.
+-Identified 50+ regulatory non-compliant products monthly, helping reduce legal and reputational risks for the platform.
+-Automated recurring reports, reducing manual processing time by 30%, improving investigation turnaround times.
+-Supported complex seller investigations, accurately redirecting 100+ seller queries/month to specialized teams for resolution.
+
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
