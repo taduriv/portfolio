@@ -50,8 +50,4 @@
 [Publication](https://github.com/taduriv/HR-Analytics-Dashboard)
 
 This project showcases an interactive HR Analytics Dashboard built using Power BI, designed to analyze and visualize employee attendance data from April to June 2022.
-
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
+[HR_Data_Analysis](https://github.com/user-attachments/assets/b1fa2066-959b-4a23-b9bc-f5a292594351)
