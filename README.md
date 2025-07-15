@@ -47,10 +47,16 @@
 
 ## Projects
 ### HR Analysis-PowerBi
-[Publication](https://github.com/taduriv/HR-Analytics-Dashboard)
-
-This project showcases an interactive HR Analytics Dashboard built using Power BI, designed to analyze and visualize employee attendance data from April to June 2022.
 [HR_Data_Analysis](https://github.com/user-attachments/assets/b1fa2066-959b-4a23-b9bc-f5a292594351)
-
+This project showcases an interactive HR Analytics Dashboard built using Power BI, designed to analyze and visualize employee attendance data from April to June 2022.
 <img width="1371" height="757" alt="image" src="https://github.com/user-attachments/assets/75123cb3-5c19-41e9-894c-7342dca35ca3" />
+**Skills: Power-BI, Data Modeling & DAX, HR Metrics & Insights Generation**
+
+### Deep Q neural network Trading Bot
+[DQN TRADING BOT](https://github.com/taduriv/crypto-trading-dqn-agent/blob/main/README.md)
+This project implements a Deep Q-Network (DQN) reinforcement learning model to predict price trends and optimize trading decisions for three major cryptocurrencies: Bitcoin (BTC), Ethereum (ETH), and Litecoin (LTC). The model is trained in a simulated trading environment where the agent learns to take actions—buy, sell, or hold—based on historical market data and technical indicators.
+**Skills: Python, Deep Neural Networks, TensorFlow & Pytorch, Numpy & pandas, Financial Data analysis**
+
+
+
 
