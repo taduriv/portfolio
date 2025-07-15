@@ -51,3 +51,6 @@
 
 This project showcases an interactive HR Analytics Dashboard built using Power BI, designed to analyze and visualize employee attendance data from April to June 2022.
 [HR_Data_Analysis](https://github.com/user-attachments/assets/b1fa2066-959b-4a23-b9bc-f5a292594351)
+
+<img width="1371" height="757" alt="image" src="https://github.com/user-attachments/assets/75123cb3-5c19-41e9-894c-7342dca35ca3" />
+
